@@ -68,3 +68,28 @@ accessKeyId=your-aws-access-key-id
 secretAccessKey=your-secret-access-key
 region=us-east-1
 topicarn=your-topic-arn
+
+
+```
+## Running the Application 🚀
+1. Install dependencies: `npm install`
+2. Set environment variables in a `.env` file.
+3. Run the application: `npm start`
+
+The server will run on port 3000 by default.
+
+## Testing 🧪
+
+The application includes basic Integration tests. You can run tests using: `npm test`
+
+## Deployment 
+
+The application can be deployed to a hosting service or cloud provider. Ensure that the necessary environment variables are configured for production use.
+
+## Contributing
+
+Contributions are welcome. Fork the repository, make changes, and submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
